@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Publicaciones</string>
+    <string name="txv_misDatos">Acerca de</string>
+    <string name="txv_desarrollador">Desarrollador</string>
+    <string name="txv_nombre">Ruth Elizabeth Vásquez Ruiz</string>
+    <string name="txv_cod">Código</string>
+    <string name="txv_codigo">VR20-I04-001</string>
+</resources>
