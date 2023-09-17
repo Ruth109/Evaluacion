@@ -54,6 +54,7 @@ public class MostrarLista extends AppCompatActivity {
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
                         lstPublicaciones.remove(position);
+                        lstFiltrada.remove(position);
                         lstFiltradaAdapter.notifyDataSetChanged();
                     }
                 });
